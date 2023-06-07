@@ -1,0 +1,3 @@
+[submodule "XtzpLib"]
+	path = XtzpLib
+	url = git@xatzipe.github.com:xatzipe/XtzpLibAndroid.git
